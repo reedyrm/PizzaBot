@@ -1,8 +1,8 @@
-﻿# FirstEchoBot
+﻿# Pizzabot
 
-Bot Framework v4 echo bot sample.
+Bot Framework v4 sample.
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
+This bot has been created using [Bot Framework](https://dev.botframework.com).
 
 ## Prerequisites
 
@@ -15,11 +15,11 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ## To try this sample
 
-- In a terminal, navigate to `FirstEchoBot`
+- In a terminal, navigate to `PizzaBot`
 
     ```bash
     # change into project folder
-    cd # FirstEchoBot
+    cd # PizzaBot
     ```
 
 - Run the bot from a terminal or from Visual Studio, choose option A or B.
@@ -35,8 +35,8 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
   - Launch Visual Studio
   - File -> Open -> Project/Solution
-  - Navigate to `FirstEchoBot` folder
-  - Select `FirstEchoBot.csproj` file
+  - Navigate to `PizzaBot` folder
+  - Select `PizzaBot.csproj` file
   - Press `F5` to run the project
 
 ## Testing the bot using Bot Framework Emulator
